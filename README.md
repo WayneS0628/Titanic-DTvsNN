@@ -90,7 +90,7 @@ It's also noticeably lower than the 0.867 accuracy this same model hit on its lo
 
 ## Try It Live
 
-*(Coming soon: an interactive Streamlit app where you can enter passenger details and see both models predict survival in real time.)*
+[Click this link to make predictions with the model live!](https://couldyousurvivethetitanic.streamlit.app/)
 
 ## Tools
 
