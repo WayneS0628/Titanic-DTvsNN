@@ -1,1 +1,6 @@
 .env
+submission.csv
+titanic_kaggle_submission.ipynb
+scaler.pkl
+nn_model.keras
+dt_model.pkl
